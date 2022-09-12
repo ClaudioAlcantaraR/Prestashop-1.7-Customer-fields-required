@@ -4,6 +4,6 @@
 
 ## ¿Como funciona?
 
-Debemos ralizar un override en el fichero `CustomerAddressFormatter.php`y en `CustomerFormatter.php`
+Debemos ralizar un override en el fichero `CustomerAddressFormatter.php` y en `CustomerFormatter.php`
 
 Path: override/classes/form
